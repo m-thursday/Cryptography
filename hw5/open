@@ -1,0 +1,16 @@
+#!/bin/bash
+set -e
+
+cd crypto_hw5
+cd hmac
+open Alice_HMAC.py
+open Bob_HMAC.py
+cd ..
+cd rsa
+open Alice_RSA.py
+open Bob_RSA.py
+cd ..
+cd tests
+open analysis.py
+open collision.py
+echo "done"
