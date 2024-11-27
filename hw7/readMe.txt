@@ -13,3 +13,10 @@ Instructions:
 				- note: program will add txt file type
 		
 		wait while program is working...
+
+	test files:
+		part 1 & 2 run with n = 4
+		part 3 & 4 run with n = 3
+
+		part 1 & 3 run with salt = 0
+		part 2 & 4 run with salt = 1
